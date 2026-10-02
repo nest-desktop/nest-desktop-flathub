@@ -1,4 +1,8 @@
-# Flathub
+# NEST Desktop Flatpak
+
+NEST Desktop is build in Flatpak a utility in which users can run apps in isolation from the rest of the system.
+
+## Flathub
 
 Flathub is the central place for building and hosting Flatpak builds.
 
